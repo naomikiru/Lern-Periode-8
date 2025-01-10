@@ -11,3 +11,5 @@ Zielnoten: 450 wäre eine 4 bis 5, damit ich die fehlenden Aufgaben im LB320 noc
 - [ ] LB450 weiterarbeiten
 - [ ] Dokumentation fürs LB450 machen
 - [ ] Aufträge vom Modul 347 weitermachen
+
+Ich habe heute am LB450 wetergearbeitet. Ich hatte zwar nur kleine Probleme die ich einfach mit ChatGPT lösen konnte. Ich habe den Code fertig gemacht, aber muss noch die Unit Tests machen. Ich habe zuerst auch noch die Präsentationen zur Hilfe genommen und die alten Aufträgen angeschaut. 
