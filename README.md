@@ -13,3 +13,15 @@ Zielnoten: 450 wäre eine 4 bis 5, damit ich die fehlenden Aufgaben im LB320 noc
 - [ ] Aufträge vom Modul 347 weitermachen
 
 Ich habe heute am LB450 wetergearbeitet. Ich hatte zwar nur kleine Probleme die ich einfach mit ChatGPT lösen konnte. Ich habe den Code fertig gemacht, aber muss noch die Unit Tests machen. Ich habe zuerst auch noch die Präsentationen zur Hilfe genommen und die alten Aufträgen angeschaut. 
+
+
+## 17.01.2025
+
+- [ ] Aufträge vom Modul 347
+- [ ] Aufträge vom Modul 295
+
+Heute habe ich an meinen Aufträgen gearbeitet. Ich habe mehrere Aufträge nachgeholt und fertig gemacht. Es waren hauptsächlich Aufträge vom Modul 347, weil ich gestern im Online Unterricht icht viel erledigen konnte. 
+
+
+## 24.01.2025
+
