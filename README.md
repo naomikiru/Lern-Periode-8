@@ -25,3 +25,10 @@ Heute habe ich an meinen Aufträgen gearbeitet. Ich habe mehrere Aufträge nachg
 
 ## 24.01.2025
 
+- [ ] Aufträge Modul 114
+- [ ] Aufträge Modul 347
+
+Ich habe heute an meinen Aufträgen von dein beiden Modulen 114 und 347 gearbeitet. Ich habe beim Modul 114 paar Aufträge fertig gemacht und habe auch Moodle Tests erledigt. Ich habe für einen Auftrag eine Powerpoint erstellt, aber muss noch Audio aufnehmen fürs Video. 
+
+
+## 31.01.2025
