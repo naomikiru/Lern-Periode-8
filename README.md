@@ -32,3 +32,8 @@ Ich habe heute an meinen Aufträgen von dein beiden Modulen 114 und 347 gearbeit
 
 
 ## 31.01.2025
+
+- [ ] Aufträge Modul 114
+- [ ] Aufträge Modul 347
+
+Heute habe ich die Aufträge vom Modul 114 gemacht. Ich habe die Präsentationen durchgelesen und paar Moodle Tests gemacht. Ich habe au noch die Abgaben angefangen aber noch nicht erledigt.
